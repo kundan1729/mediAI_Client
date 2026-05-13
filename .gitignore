@@ -1,0 +1,32 @@
+# Node dependencies
+/node_modules/
+
+# Build outputs
+/dist/
+/build/
+
+# Vite cache
+/.vite/
+
+# Local env files
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Optional npm/yarn lockfiles (uncomment if you want to track them)
+# package-lock.json
+# yarn.lock
+
+# Static public assets that are built by the app should remain
+# Public folder is included in source control; don't ignore it unless intended
